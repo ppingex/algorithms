@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\bin\Debug\netcoreapp3.1\алгоритм басакера гоуэна.exe
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\bin\Debug\netcoreapp3.1\алгоритм басакера гоуэна.deps.json
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\bin\Debug\netcoreapp3.1\алгоритм басакера гоуэна.runtimeconfig.json
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\bin\Debug\netcoreapp3.1\алгоритм басакера гоуэна.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\bin\Debug\netcoreapp3.1\алгоритм басакера гоуэна.dll
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\bin\Debug\netcoreapp3.1\алгоритм басакера гоуэна.pdb
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.dll
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.pdb
+C:\Users\Lenovo\source\repos\алгоритм басакера гоуэна\алгоритм басакера гоуэна\obj\Debug\netcoreapp3.1\алгоритм басакера гоуэна.genruntimeconfig.cache

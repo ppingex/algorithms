@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\bin\Debug\netcoreapp3.1\алгорим форда фалкерсона.exe
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\bin\Debug\netcoreapp3.1\алгорим форда фалкерсона.deps.json
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\bin\Debug\netcoreapp3.1\алгорим форда фалкерсона.runtimeconfig.json
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\bin\Debug\netcoreapp3.1\алгорим форда фалкерсона.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\bin\Debug\netcoreapp3.1\алгорим форда фалкерсона.dll
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\bin\Debug\netcoreapp3.1\алгорим форда фалкерсона.pdb
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.dll
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.pdb
+C:\Users\Lenovo\source\repos\алгорим форда фалкерсона\алгорим форда фалкерсона\obj\Debug\netcoreapp3.1\алгорим форда фалкерсона.genruntimeconfig.cache

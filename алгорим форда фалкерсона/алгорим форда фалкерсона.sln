@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "алгорим форда фалкерсона", "алгорим форда фалкерсона\алгорим форда фалкерсона.csproj", "{89B104B4-021C-4727-B802-DD549408F9E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B104B4-021C-4727-B802-DD549408F9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B104B4-021C-4727-B802-DD549408F9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B104B4-021C-4727-B802-DD549408F9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B104B4-021C-4727-B802-DD549408F9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC02654-96F0-48B3-A292-EBAF6A810512}
+	EndGlobalSection
+EndGlobal
